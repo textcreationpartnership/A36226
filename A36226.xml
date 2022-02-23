@@ -1,0 +1,382 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ymadroddion hen Mr. Dod.</title>
+            <title>Selections. Welsh</title>
+            <author>Dod, John, 1549?-1645.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36226</idno>
+            <idno type="STC">Wing D1789A</idno>
+            <idno type="STC">ESTC R174686</idno>
+            <idno type="EEBO-CITATION">26874125</idno>
+            <idno type="OCLC">ocm 26874125</idno>
+            <idno type="VID">109838</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A36226)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109838)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1714:21 or 2609:3a)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ymadroddion hen Mr. Dod.</title>
+                  <title>Selections. Welsh</title>
+                  <author>Dod, John, 1549?-1645.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1693?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (CD-ROM, 1996).</note>
+                  <note>This item appears at reel 1714:21 as Wing D1789A (number has no entry in CD-ROM 1996 ed.), and at reel 2609:3a as Wing (CD-ROM, 1996) D1788A.</note>
+                  <note>Imperfect: copy at reel 1714:21 torn, stained and tightly bound, with print show-through and loss of text. Improved copy at reel 2609:3a bound and filmed preceding Wing (2nd ed.) B1237A Baxter, R. Dattodiad y qwestiwn mawr ... Llundain, 1693.</note>
+                  <note>Reproduction of originals in Harvard University Library and Llyfrgell Genedlaethol Cymru/National Library of Wales, Aberystwyth, Wales.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="wel">wel</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Aphorisms and apothegms.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="wel">
+      <body>
+         <div type="text">
+            <pb facs="tcp:109838:1"/>
+            <pb n="1" facs="tcp:109838:1"/>
+            <head>YMADRODDION HEN Mr. Dod.</head>
+            <p n="1">1. NID all dim wneuthur niwed i ni ond Pechod; ac ni chaiff hwnnw wneuthur mo'r niwed i ni os medrwn ni edifarhau am dano. Ac ni all dim wneuthur i ni dda, ond Cariad a ffafor Duw yn Ghriſt; a hynny a gawn ni, os nyni a'i ceiſiwn mewn gwirion<g ref="char:EOLhyphen"/>edd.</p>
+            <p n="2">2. Nid oes nêb mewn cyflwr toſturus, ond yr hwn ſydd ganddo galon galed, ac ni fedro weddio.</p>
+            <p n="3">3. Cymmaint ag a fyddo o Bechod, cymmal<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t a hynny a fydd o Drymder: Cymmaint ag a ſyddo o Sancteiddrwydd, cymmaint a hynny a fydd o Hapyfrwydd.</p>
+            <p n="4">
+               <pb n="2" facs="tcp:109838:2"/>4. Gwna dy Bechod i ti yn Driſtwch mwy<g ref="char:EOLhyphen"/>af; felly ni chaiff dy Driſtwch bŷth wneuthur i ti niwed; Gwna Jeſu Ghriſt yn llawenydd mwyaf i ti; felly ni bydd arnat ti bŷth mor diffyg llawenydd.</p>
+            <p n="5">5. Y Gŵr y ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Gantho Yſpryd. Gwe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>di, ſydd gantho fwy nâ phe bai yr holl fyd ar ei helw.</p>
+            <p n="6">6. Dau beth a orchymynnodd ef i Gwpl o rai Priod, Gofalon ac ymryſonau: Am y cyn<g ref="char:EOLhyphen"/>taf, Bydded eich Gofalon, <hi>Pa un a ryng<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r fodd i Ddaw yn fwy af:</hi> Am eich Y m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yſona<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, by<g ref="char:EOLhyphen"/>dded iddynt <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>od, <hi>Pa un a garo eu gi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d oreu:</hi> Felly y bydd eich Gofalon a'<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mry ſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>au i ryw ddefnydd da; ac felly pob Gofalon ac Ymryſonau afreidiol a ddiflannant.</p>
+            <p n="7">7. Os ydych chwi mewn yſtâd Briodol, Gwybyddwch, a choeliwch, er y galla<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ech gael Gwraig neu wr gwell neu gyfoethoccach; etto byddwch ſicer, na allaſech chwi fyth gael un cymmhwyſach: Oblegid ei fôd wedi ei orde<g ref="char:EOLhyphen"/>inio felly gan Dduw yn y Nefoedd, cyn y gellid ei gyflawni ymma ar y ddaiar: Ac am hynny, er nad ydys yn cyflawni cariad i ti yn ôl; etto gwna di dy ddyledſwydd tuag at dy Briod, o ran ufudd-dod i Dduw; a thi a fyddi Siccr o gael cyſſur yn y diwedd, er i Dduw dy drin di â Cheryddon dros amſer.</p>
+            <p n="8">8. Ni ddichon dim Cyſtuddiau, neu Drueni ddigwydd i ni, ond trwy Ordinnâd Duw; a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ni allant wneuthur niwed i ni, eithr rhaid yw
+<pb n="3" facs="tcp:109838:2"/>
+iddynt wneuthur da i ni, os ydym ni Blant i Dduw. Eithr <hi>yn gyntaf,</hi> Byddwch ſiccr na chymmyſgoch ddim pechod â hwynt; canys hynny yn unic ſy'n eu chwerwi hwynt: <hi>Yn ail,</hi> Nac edrychwch ar y Wialen, ond ar yr hwn ſy yn taro; canys hynny a bair ymddigio a de<g ref="char:EOLhyphen"/>ffygio hefyd.</p>
+            <p n="9">9. Os wyt ti yn chwennych bod yn ſicer fôd dy bechodau wedi eu maddeu iti; Cais faddeu y Cammau, a'r Niweidion a wenler i tithau, <hi>Mat.</hi> 6.14, 15. Yſtria bedwar peth ir diben ymma:</p>
+            <p n="1">1 Siampl Criſt, yr hwn a faddeuodd iw ely<g ref="char:EOLhyphen"/>nion ac a weddiodd droſtynt. 2 Gorchymmyn Cirſt, <hi>Pan weddioch, maddeûwch os bydd gennych ddim yn erbyn neb.</hi> 3. Addewid Criſt, <hi>Os madd<g ref="char:EOLhyphen"/>euwch, maddeuir i chwithau.</hi> 4. Bygythiad Criſt, <hi>Oni faddeuwch, ni faddeuir i chwithau.</hi>
+            </p>
+            <p n="10">10 Ym mhob Trueni a Chyfyngderau; goreu doethineb yw myned at y Cyfaill hwnnw ar ſydd neſſaf, ewyllyſgaraf, ac applaf i gynnor<g ref="char:EOLhyphen"/>thwyo; y cyfryw Ffrind yw Duw.</p>
+            <p n="11">11 Mynych y dywedai ef; Nad oedd iddo achos yn y byd i gwyno rhag ei Groeſau; gan nad oeddynt ond chwerw ffrwyth ei bechodau ef:</p>
+            <p n="12">12. <hi>Lle mae Pechod yn drwm, mae Croeſau yn yſgafn; ac yn y gwrthwyneb, lle mae Croeſau yn drynion, Pechodau ydynt yſgafn.</hi>
+            </p>
+            <p n="13">13. Naill ai Gweddi a bair i ddyn beidio a phechu; neu y Pechod a bair i ddyn beidio a gweddio.</p>
+            <p n="14">14. Pedwar peth a allwn ni ei ddyſgu oddi<g ref="char:EOLhyphen"/>wrth
+<pb n="4" facs="tcp:109838:3"/>
+Blant: 1. Ni ofalant am ddim yn afrei<g ref="char:EOLhyphen"/>diol. 2. Hwy a gyſgant yn ddifalis. 3. Maent yn fodlon iw cyflwr. 4. Maent yn oſtyngedig; Plentyn i Frenin a chwery a Phlentyn i Gerdot<g ref="char:EOLhyphen"/>tyn.</p>
+            <p n="15">15. Nid oes un Cyſtudd cyn lleied, na ſuddem ni dano, oni bai fod Duw i'n cynnal; <hi>ac nid oes un Pechod mor fawr, na wnaem ni ef, oni bai fod Duw yn ein hattal.</hi>
+            </p>
+            <p n="16">16. Os rhoddir anfri i ni, neu ein difenwi, neu os gwneir a ni gam gan gyfaill neu elyn, fe ddylei fod yn flinach gennym ni o ran y pe<g ref="char:EOLhyphen"/>chod a wneir yn erbyn Duw, nag o ran y ſar<g ref="char:EOLhyphen"/>haad neu 'r ammarch a wneir i ni ein hunain.</p>
+            <p n="17">17. Mae gwr Duwiol yn debyg i Ddafad; pob man ſydd well o'i blegid lle y delo. Gŵr annuwiol ſydd debyg i Afr; pob man ſydd yn waeth o'i blegid; gado y mae ef ſawyr drew<g ref="char:EOLhyphen"/>llyd ar ei ôl.</p>
+            <p n="18">18 Cyſtuddiau wedi eu ſancteiddio ydynt or<g ref="char:EOLhyphen"/>uchafiaethau, neu dderchafiadau yſprydol; ac y maent yn llawer gwell i Griſtion, nâ 'r holl A<g ref="char:EOLhyphen"/>rian a'r Aur yn y bŷd; <hi>gan fod profiad ein ffydd yn werthfawroccach né 'r Aur,</hi> 1 Pe. 1.7.</p>
+            <p n="19">19. Gwna 'r Sabbath yn ddydd marchnad i'th Enaid. Na ollwng un awr i golli, ond bydd naill ai yn Gweddio, ai yn ymddiddan, ai yn Myfyrio. Na feddwl dy feddyliau dy hun; Ca<g ref="char:EOLhyphen"/>ffed pob diwrnod ei ddyledſwyddau; tro y Bre<g ref="char:EOLhyphen"/>geth a glywech yn ddefnydd o Weddi; Addyſc yn Erfyniad, Argyoeddiad yn Gyffes; Cyſſur yn
+<pb n="5" facs="tcp:109838:3"/>
+ddiolchgarwch. Meddwl lawer am y Bregeth a glywaiſt, a gwna ryw ddefnydd o honi yr holl wythnos o hŷd.</p>
+            <p n="20">20. Bob boneu trwy 'r wythnos rhag-fwrw; 1. <hi>Rhaid i mi farw.</hi> 2. <hi>Mi a allaf farw cyn y nôs</hi> 3. <hi>I ba <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>yr â fy enaid, ai ir Nêf ai i vffern:</hi> Bob nôs gofyn ith enaid y Cweftiwnau hyn.</p>
+            <p n="1">1. <hi>A ddarfu i mi ddwywaith heddyw ymddarost<g ref="char:EOLhyphen"/>wng ger bron Duw o'r neilltu?</hi> 2. <hi>Pa fodd y gwe<g ref="char:EOLhyphen"/>ddiais? Ai mewn ffydd a Chariad?</hi> 3. <hi>Beth a fu fy Meddyliau arno y dydd heddyw?</hi> 4. <hi>Beth y fum i yn ei wneúthur yn fy lle a'm galwedigaeth?</hi> 5. <hi>Beth a fum i mewn Cwmpeini? A leferais i am bethau da? neu a wrandawais i, a rhoddi i gadw gyda</hi> Mair <hi>y pethau da a glywais?</hi> 6, <hi>Os adnewyddodd Duw Drugareddau gyda'r boreu, a fûm i ddiolchgar?</hi> 7. <hi>Os cyfrannodd y diwrnod i mi achos o drymder, a ymddigiais i? Ynteu a orweddais i yn y llwch ger bron Duw? Pan Darfyddo i chwi wneuthur fal hyn; lle y buoch chwi yn ddeffygiol, cyfaddefwch hynny yn athrist; a llai a fydd y gwaith i chwi iw wneuth<g ref="char:EOLhyphen"/>ur pan ddelo marwolaeth. Gwna fel hyn uniawn gyſrif. â'th Dduw bob nôs. Hyn a fu fy helynt feunyddiol i, ac a gaiff fod yn arfer i mi nes fy marw.</hi>
+            </p>
+            <p n="21">21. Yr hyn a ennillom ni drwy Weddi, ni a gawn ei fwynhau mewn diddanwch.</p>
+            <p n="22">22. Mae Siccrwydd dau-ddyblyg. 1. Siccr<g ref="char:EOLhyphen"/>wydd Haul-gan. 2. A Lloergan. Y cyntaf yw y llawn ficcrwydd hwnnw yn <hi>Heb.</hi> 10.22. Y Lloergan yw hwnnw o'r Gair, <hi>yr hwn da y gwn<g ref="char:EOLhyphen"/>awn fod yn dal arno,</hi> 1 Theſ. 1.5. 2 Pet. 1.19. Y cyntaf ni roddir ond i ychydig, na hynny ond yn anfynych; a hynny naill ai ar ryw ddy<g ref="char:EOLhyphen"/>ledſwydd fawr iw chyflowni; neu ryw gyflwr newydd o fywyd i fyned iddo; neu ar ryw
+<pb n="6" facs="tcp:109838:4"/>
+fowrion ddioddefiadau i fyned danynt; am y<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hwn y dywaid un, yr oriau (neu r'awrau) <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> daw, nid ydynt ond anfynych, a byrr y mae y<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> aros. Yr ail yw yr hwn y rhaid i ni ymddiried iddo, Rhoi goglud ar ſiccr Air Duw, drwy ffydd o Ymlyniad, pan ydym ni heb y llall, ſef yſ<g ref="char:EOLhyphen"/>pryd o lawn Siccrwydd.</p>
+            <p n="23">23. Am gyſſur pobl Duw, efe a ddaliodd ſulw allan o'r 129 <hi>Pſalm,</hi> Er bod yr annuwiol yn Ardd<g ref="char:EOLhyphen"/>wŷr ar y Cyfiawn, ac aredig o honynt yn ddwfn<g ref="char:punc">▪</g> a gwneuthur cwyſau hirion, a hefyd aredig e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> calonnau hwynt allan, pes gallent; etto yr Ar<g ref="char:EOLhyphen"/>glwydd cyfiawn, yr hwn ſy yn eiſtedd yn y Nefoedd, ſy yn chwerthin am eu pennau, ac yn torri eu Tidau, a'u rhaffau; ac yna nid allant uredig dim ychwaneg.</p>
+            <p n="24">24. Yn achos Erlidiadau a Dioddefiadau eraill, fe ddylei pobl Dduw yſtyried yn ddifrifol y pedwar peth hyn: 1. Duw ſydd yn mynni iddynt fod, ac yn eu hanfon; Weithian Ew<g ref="char:EOLhyphen"/>yllys Duw fydd berffaith Reol Cyfiawnder; a'r hyn y mae Duw yn ei wneuthur, a wnaeth<g ref="char:EOLhyphen"/>pwyd cyſtal, nas gallai mor bod wedi ei wneu<g ref="char:EOLhyphen"/>thur yn well. 2. Mae yn rhaid wrthynt, oni bai hynny ni chaem ni mo honynt. 3. Eu rhi<g ref="char:EOLhyphen"/>fedi, eu meſur, a'u parhâd a benderfynnwyd gan Dduw; nid ydynt ond tros ennyd ſechan, nac yn parhau ond ychydig ddyddiau, <hi>Dat.</hi> 2.10. nid ydynt rŷ drymion, rŷ aml, neu rŷ<g ref="char:EOLhyphen"/>hir, fel y mynnei 'r Cythrel iddynt fôd; na rhŷ-anaml, rhy-fyrrion, neu rŷ-yſgaſn, fel y mynnei ein naturiaeth lygredig iddynt fôd. 4. Ei diwedd ſydd bwys o ogoniant, a'r Goron a'u canlyn ſydd dragwyddol, 2 Cor. 4.17.</p>
+            <p n="25">25. Tri pheth a bair i ddŷn ei gyfrif ei hun yn ddedwydd ymma ar y Ddaiar. 1. Cael yſtâd
+<pb n="7" facs="tcp:109838:4"/>
+dda: 2. Ei chael hi mewn lle da: 3. Wrth gymmydogion da. Yn awr y tri hyn y mae y rhai ſydd yn meirw yn yr Arglwydd, yn eu mwynhau mewn modd rhagorol.</p>
+            <p n="1">1. Eu Nefol Etifeddiaeth ſydd fawr, <hi>Ni wel<g ref="char:EOLhyphen"/>odd llygad, ni chlywodd cluſt y cyffelyb,</hi> 1 Cor. 2.9. 2. Mae hi mewn lle da, 2 Cor. 5.1. Y Nefoedd, yr hwn ſydd Dy a wnaethpwyd i dd<g ref="char:EOLhyphen"/>ynt hwy, ac a wnaethpwyd gan Dduw; ac am hynny mae'n rhaid iddo fod yn dda. 3. Yn agos at Gymmydogion da: Duw, Criſt, yr Yſpryd, Angelion, a Seintiau. Yr oedd gan <hi>Adda</hi> Etifeddiaeth dda, ac mewn lle da; ond yr oedd ganddo Gymmydog drwg, ſef y Gy<g ref="char:EOLhyphen"/>thrael, yr hwn ai blinodd ef, ac a anafodd y cwbl. <hi>Ond nid oes dim Cymmydogion drwg yn y Nefoedd.</hi>
+            </p>
+            <p n="26">26. Nid yw Dioddefiadau pobl Dduw yn rhwyſtro eu Gweddiau hwynt. <hi>Elias</hi> oedd ddyn yn rhaid iddo ddioddef fel ninnau, ac efe a weddiodd ac a wrandawyd, Jac. 5.17.</p>
+            <p n="27">27. Tri pheth ſydd yn cyd-ymganlyn i wneu<g ref="char:EOLhyphen"/>thur i fynu y pechod yn erbyn yr Yſpryd glân, 1. <hi>Goleuni yn y meddwl.</hi> 2. <hi>Malis yn y galon.</hi> 3. <hi>Yr anheimlad o'r pechod. Y nêb ſy yn oſni ddarfod iddo ei bechu ef, ni phechodd ef mo hono erioed.</hi>
+            </p>
+            <p n="28">28. Y rheſwm pa ham na weithir ar lawer ſydd tan nerthol foddion Grâs, lle y mae llawe<g ref="char:EOLhyphen"/>roedd ar ſy yn byw o bell, ac yn dywad yn anfynych tan Bregethiad nerthol, yn cael gwei<g ref="char:EOLhyphen"/>thio arnynt drwy hynny, efe a arferei oi roddi drwy'r gyffelybiaeth yma: Megis mewn Tref farchnad, nid oes cymmaint matter gan bobl y Dref am bethau fy yn y ſarchnad, a chan y rhai ſydd yn byw yn y wlâd; maent hwy yn dyfod i brynu, a rhaid yw iddynt wneuthur
+<pb n="8" facs="tcp:109838:5"/>
+felly; a hwy a fynnant gael y peth ſydd arnynt ei eifiau, beth bynnag a dalont am dano; lle mae y rhai ſy yn byw yn y Dref, yn tybied y gallant brynu, pa amſer bynnag y gwelont yn dda, ac felly yr eſceuluſant brynu yn yr amſer preſennol; ac o'r diwedd, maent yn fynych iawn yn cael eu ſiommi a'u twy<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>o.</p>
+            <p n="29">29. I'n perſwadio ni i beidio a rhoi ſen am ſen, efe; a ddywedai; Os C<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> gyfarth ddafad, ni chyfarth y ddafad mo'r Ci.</p>
+            <p n="30">30. Pedwar O Reſymman a roddai fo yn erbyn Gofalon anghymhedrol am bethau daia<g ref="char:EOLhyphen"/>rol, fel na ddianrhydeddem Duw, na'i wadu. 1. <hi>Maent yn afreidiol.</hi> 2. <hi>Maent yn anifei<g ref="char:EOLhyphen"/>laidd.</hi> 3. <hi>Maent yn anfuddiol.</hi> 4. <hi>Maent yn arfer o ddilyn y cenhedloedd.</hi>
+            </p>
+            <p n="1">1. Yn afreidiol: Pam y rhaid i ni ofalu, a Duw hefyd? <hi>Gŵyr ein Tad nefol fod arnom ei<g ref="char:EOLhyphen"/>fieu y pethau hyn,</hi> a pheri y mae ef i ni, <hi>na ofalom am ddim, ond bwrw ein gofal arno ef, yr hwn ſy yn gofalu droſom ni.</hi> Mat. 6.32. 1 Pet. 5.7. 2. Yn aniſeilaidd, ie a gwaeth nag a<g ref="char:EOLhyphen"/>nifeilaidd: <hi>Edrychwch ar adar y nefoedd, a'r cygfrain, y mae efe yn eu porthi hwynt, er nad ydynt yn llafurio,</hi> Mat. 6.26. 3. Maent yn An<g ref="char:EOLhyphen"/>fuddiol ac yn ddilês. <hi>Pwy o honoch gan ofalu a ddichon chwanegu un cufydd at ei faintioli, neu vn geiniog at ei olud,</hi> Mat. 6.27. 4. Arfer y Cenhedloedd yw, <hi>Yr holl bethau hyn y mae y Cenhedloedd yn eu ceiſio.</hi> Mat. 6.32.</p>
+            <p n="31">31. Mae bagad yn y byd yn cymmeryd yr enw o fod yn Sainct ar dyb da eraill am danynt; ae yn marchanatta yn nyledſwyd dau Crefydd, ar y goel a ennillaſant oddiwrth Opiniwnau da rhai eraill am danynt hwy, a'u proffeſs: Cre<g ref="char:EOLhyphen"/>du y maent eu bod eu hunain yn Griſtianogion, oblegid bod eraill yn gobeithio eu bod hwy
+<pb n="9" facs="tcp:109838:5"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elly; ac hwy a negeſeuant a zel gwreſog, mewn dyledſwyddau ſy yn ſefyll oddiallan, i gynnal eu Henw da; <hi>eithr ni edrychant un amſer am y Stocc o gadarn Râs oddifewn;</hi> a hyn fydd yn anaſu llawer.</p>
+            <p n="32">32. Fel yr ydym ni yn darllen am <hi>fara beu<g ref="char:EOLhyphen"/>nyddiol,</hi> felly hefyd am <hi>Groes feunyddiol, Luc</hi> 9.23. yr hon y perir i ni ei <hi>chodi,</hi> nid ei <hi>gwneuthur.</hi> Nid rhaid i ni mor gwneuthur Croeſau <hi>i ni</hi> ein hunain (fal yr ydym ni yn <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hy barod i wneuthur) ond gadawn i Dduw <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eu gwneuthur hwynt i ni: Croeſau a wneir yn <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y Nefoedd, fydd fwyaf cymmwys i geſnau'r Sainct; ac ni waſanaetha i ni moi rhoddi hwy <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i lawr, nes iddynt hwy a ninnau orwedd i <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>awr ynghyd.</p>
+            <p n="33">33. Ymadrodd hynodol oedd hwnnw o'r ei<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ddo Gwr ſanctaidd, <hi>Diffoddwch uffern, a lloſgwch <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y Nefoedd, etto myfi a garaf, ac a ofnaf fy Naw.</hi>
+            </p>
+            <p n="34">34. Nid croehlefain yn erbyn y Cythrael, rac ymadroddi yn erbyn Pechod mewn Gwe<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ddi, neu Ymddiddanion; ond ymladd â'r Cy<g ref="char:EOLhyphen"/>thrael, a marweiddio ein Trachwantau, yw'r hyn y mae Duw yn bennaf yn edrych arno.</p>
+            <p n="35">35. Y mae'r l'roffeſſwr gwâg yn Siommi <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>neu'n twyllo dau ar unwaith; <hi>Y Byd, yn hwn wrth <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>weled dail, ſy yn diſgwyl ff<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wythau, ond nid yw yn <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cael dim.</hi> 2. <hi>Ei hunan, yr hwn ſy yn tybied cyrr<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>edd y Nefoedd, ond ſy yn dyfod yn fyrr o honi.</hi>
+            </p>
+            <p n="36">36. Yr unig ffordd i Enaid cyſtuddiol, ni fedro ymafaelio nen ymaflyd mewn Cyſſurau o'r blaen, oblegid Gwrthdroeadau neu becho<g ref="char:EOLhyphen"/>dau ar ôl, ac felly ſy yn ammeu ei holl ſiccr<g ref="char:EOLhyphen"/>wydd o'r blaen, yw, <hi>Adnewyddu ei Edifeirwch, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>l pe buaſei ef heb gredu erioed.</hi>
+            </p>
+            <p n="37">37. Hawdd gan rai feddwl pe baent yn y cyf<g ref="char:EOLhyphen"/>yw Deulu, dan y cyfryw Weinidog, allan o'r
+<pb n="10" facs="tcp:109838:6"/>
+cyfryw Demptaſiwnau, nad ymmyrrau'r Cy<g ref="char:EOLhyphen"/>thrael â hwynt, fel y mae. Eithr y cyfryw rai a ddylaent wybod. Mai cyhyd ag y byddo ei hen Grfaill ef, ſef y cnawd yn fyw oddi fewn, y bydd ynteu yn curo wrth y drws oddi<g ref="char:EOLhyphen"/>allan.</p>
+            <p n="38">38. Yr hadau a hauwyd yn Naturiaeth Dia<g ref="char:EOLhyphen"/>fol a'r Sainct ydynt cyn ddyfned, na ddiwreid<g ref="char:EOLhyphen"/>dir hwy byth, hyd oni pheidio y Cythrael a bod yn Gythra<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l, a Phechod a bod yn Bechod, a Sainct a bod yn Sainct.</p>
+            <p n="39">39. Melinydd Diafol yw'r pechadur, yn ma<g ref="char:EOLhyphen"/>lu yn waſtadol; ar Diafol ſydd yn waſtad yn llenwi yr Hoppran, neu'r pin fel na ſafo'r felin.</p>
+            <p n="40">40. Mae rhai pechodau na feidr dyn anwy<g ref="char:EOLhyphen"/>bodus moi Gwneuthur; eithr y mae llawer ychwaneg na feidr dyn anwybodus ond eu gwneuthur.</p>
+            <p n="41">41. Y mae pump o rwymau, â phâ rai y rhwymodd Duw'r Nefoedd ef ei hun i fod yn Gard neu'n Geidwad i gadw einioes y Sainct, yn erbyn Gallu y Tywyllwch. 1. <hi>Ei barthy<g ref="char:EOLhyphen"/>nas iddynt megis T<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d.</hi> 2. <hi>Ei Gariad ef iddynt, o ran ei bod bwynt yn Eſgoredigaeth ei Gyngor Tragwyddol ef, megis cyfrannogion o'i Lûn ef ei hun.</hi> 3. <hi>Pridwer<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Gwaed ei fab, a'i Gyfam<g ref="char:EOLhyphen"/>mod â hwynt.</hi> 4. <hi>Eu Goglud arno ef, a'u Diſ<g ref="char:EOLhyphen"/>gwyliad oddiwrthn, yn eu holl gyfngderau:</hi> yn awr <hi>Diſgwyhiad a gobaith y trueiniaid ni <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hollit bŷth,</hi> Pſalm 9.18. 5. <hi>Gwaith preſennol Criſt yn y Nefoedd, yn edrych am fod pob peth y<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> cael ei ddwyn rhagddo yn dêg rhwng Duw â'<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Bobl.</hi>
+            </p>
+            <p n="42">42. Bara haidd gyd â'r Efengyl ſydd ym borth dâ.</p>
+         </div>
+         <div type="poem">
+            <pb n="11" facs="tcp:109838:6"/>
+            <head>Byrr yw oes Dyn.</head>
+            <lg>
+               <l>FEl Gwenol <hi>Job</hi> mae 'n hoes yn llithro,</l>
+               <l>Fel Rhoſſyn <hi>Dafydd</hi> mae hi 'n gwywo,</l>
+               <l>Fel gyrfa <hi>Paul</hi> y mae 'n diweddi,</l>
+               <l>Fel Bwmbwl <hi>Jago</hi> mae 'n diffoddi.</l>
+            </lg>
+            <lg>
+               <l>Fel canwyll gŵyr mae 'n hoes yn treulio.</l>
+               <l>Fel llong dan hwyl mae 'n myned heibio,</l>
+               <l>Fel poſt dan ſawd mae 'n pedwar carnu,</l>
+               <l>Fel cyſcod cwmmwl mae 'n difflannu.</l>
+            </lg>
+            <lg>
+               <l>Gwann yw 'n tai, a chryf yw'n Gelyn,</l>
+               <l>Byrr yw'n Terem, ſuwr yw'n terfyn,</l>
+               <l>Ancertennol yw ddyfodiad,</l>
+               <l>Byddwn barod yn ei wiliad.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>Myfyrdod ar Fywyd ac Angeu.</head>
+            <lg>
+               <l>PA gyntas bytho marw Criſtion,</l>
+               <l>Cynta derhyn hwnnw ei Goron:</l>
+               <l>Pa hwya bytho Chriſtion byw,</l>
+               <l>Hwya bydd heb weled Duw.</l>
+            </lg>
+            <lg>
+               <l>Pa hwya byddo dyn heb farw,</l>
+               <l>Mwya fydd gofynnion hwnnw:</l>
+               <l>Pa gynta tynner dyn o'i wegi,</l>
+               <l>Ll<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> gyd y fydd ei gyfri.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb n="12" facs="tcp:109838:7"/>
+            <head>Criſt yw Pren y Bywyd.</head>
+            <lg>
+               <l>DEwch bôb rhai at Bren y bywyd,</l>
+               <l>Dewch at Ghriſt ein prynwr hyfryd;</l>
+               <l>Mwynhewch y ffrwyth, a chredwch yntho.</l>
+               <l>Chwi gewch râs a bywyd gantho.</l>
+            </lg>
+            <lg>
+               <l>Dymma 'r Pren y dynn y ddingood,</l>
+               <l>A'r newyn du, a'r poen, a'r pechod,</l>
+               <l>A'r melldith Duw, a'r loes wenwynig,</l>
+               <l>Y ddaeth o fwytta 'r pre<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> gwarddedig.</l>
+            </lg>
+            <lg>
+               <l>O! bwyttewch o'r pren yn rhád,</l>
+               <l>O'r nef y daeth, oddiwrth y Tàd,</l>
+               <l>I'n gyrru 'n Jach, i gadw 'n bywyd,</l>
+               <l>I dorri 'n chwant, i roi i'n Jechyd.</l>
+            </lg>
+            <lg>
+               <l>Mae 'ffwryth e'n ber, mae ddail yn Jachus,</l>
+               <l>Mae flas yn well nâ'r Manna melus:</l>
+               <l>Ni all newyn byth, nac Angau,</l>
+               <l>Drwblo 'r dyn y fwytty ei ffrwythau.</l>
+            </lg>
+            <lg>
+               <l>Chriſt yw'r pren, Oh! dewch bawb atto,</l>
+               <l>Y ffrwyth yw'r bywyd y ſydd ynddo;</l>
+               <l>Y dail yw' r gair, a'î gyngor Jachus,</l>
+               <l>Sy'n bywhan yr enaid clwyfus.</l>
+            </lg>
+            <lg>
+               <l>Dewch bôb rhai, ſy'n flin eu cyflwr,</l>
+               <l>Dewch at Ghriſt, ein gwir Jachawdwr,</l>
+               <l>Dewch i dderbyn grâs a Jechyd,</l>
+               <l>Cymmorth, cynffordd, bawb o'r holl-fyd.</l>
+            </lg>
+            <lg>
+               <l>Dewn at y Pren, bwyttawn ei ffrw<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> hau,</l>
+               <l>Crynhown ei ddail, rhown wrth ein cl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wyfau:</l>
+               <l>Fe'n gwir Jacha, ſe dyrr ein newyn,</l>
+               <l>Fe bair i'n fyw, dros fyth heb derfy<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+            </lg>
+            <trailer>TERFYN.</trailer>
+            <pb facs="tcp:109838:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
